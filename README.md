@@ -10,7 +10,7 @@ tagline: New Tech notebook/Dictionary for Developers
 home: true
 navbar: true
 actionText: Start learning →
-actionLink: /about
+actionLink: /data-science/data-science
 features:
   - title: Notes
     details: Simple to understand notes on various disruptive technologies like AI, Blockchain, etc.
