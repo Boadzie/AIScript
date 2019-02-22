@@ -20,5 +20,3 @@ features:
     details: Completely free to use and share without any reservation :).
 footer: MIT Licensed | AIScript 2019
 ---
-
-### Share with Friends and Make the World a Better Place
