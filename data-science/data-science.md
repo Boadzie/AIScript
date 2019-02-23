@@ -34,7 +34,9 @@ The following are the required skills tha makes a great data scientist;
 
 3. **Communication Skills**: The ability to communicate insight in a clear way for non-technical people to understand is crucial to the success of any Data Scientist.
 
-4) **People Skills**: Data Scientist rarely work alone. As such, the ability work well with other people is important for any data scientist to master if they will get far.
+4. **People Skills**: Data Scientist rarely work alone. As such, the ability work well with other people is important for any data scientist to master if they will get far.
+
+5. **Critical Thinking**: The ability to analyze siuations/solutions/problems and select the most viable from alternatives as well as continually eveluate the solution so as to make incremental changes is required for anyone who want to be a Data Scientist
 
 ### Technical Skills
 
@@ -49,3 +51,15 @@ The following are the required skills tha makes a great data scientist;
 4. **Machine Learning**: Machine Learning is a crucial part of Data Science. Machine Learn is the ability to make computers learn from data. Deep learning a subset of machine learning is responsible for all the cool we see today like self-driving cars and chatbots.
 
 5. **Data Visualization**: Data communication through visualization is also important in the toolset of a Data Scientist. After all, if you can't communicate your results to non-technical people, how will would your work benefit them?
+
+6. **Domain Knowledge**: Knowledge and intuition about the field in which you are working is also important in the accurate analysis of Data Science results and subsequent business applications.
+
+![](../images/dataskills.jpg)
+
+**sources**
+
+1. [https://www.proschoolonline.com/blog/data-science-skills](https://www.proschoolonline.com/blog/data-science-skills)
+
+2. [https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
+
+3. [https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html)
