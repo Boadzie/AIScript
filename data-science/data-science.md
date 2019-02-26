@@ -63,3 +63,90 @@ The following are the required skills tha makes a great data scientist;
 2. [https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
 
 3. [https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html)
+
+### Data Science Part Definitions
+
+#### Mathematics
+
+**Scaler**: A scaler is a single number. examples include the numbers 1 or 2, or 3 as single units and not a part of a list.
+
+**Vector**: Vectors are arrays of numbers aranged in some order.
+
+```python
+   data = [1,2,3,4,5] # the variable data is a one dimensional vector
+```
+
+**Matrix**: A matrix is a two-dimensional array (often called a 2D array). Elements of a matrix are stored in row and collumns.
+
+```python
+   myMatrix = [
+    [1, 2, 3, 4, 5],
+    [2, 1, 4, 5, 2],
+    [5, 2, 0, 4, 8]] # a 3 X 5 matrix
+```
+
+**Tensor**: Tensors are multidimensional and multi-generic arrays.
+
+```python
+   # a tensor
+    from numpy import array
+    T = array([
+    [[1,2,3],    [4,5,6],    [7,8,9]],
+    [[11,12,13], [14,15,16], [17,18,19]],
+    [[21,22,23], [24,25,26], [27,28,29]],
+    ])
+```
+
+**Random Variable**: A variable who's outcome depends on chance. This variable can be discrete or continuous.
+
+**Probability Distribution**: This refers to an arrangement that depicts the possibility of a random variable assuming a probable state.
+
+**Probability Mass Function**: refers to a distribution over discrete random variables. It includes Binomial and Poisson Distributions.
+
+**Probability Density Function**: This refers to distribution over continuous random variables. Examples include Normal, Uniform and Student's T Distributions
+
+**Marginal Probability**: The marginal probability of a sample made up of random variables is the probabilty distributions of elements in the sample.
+
+**Conditional Probability**: This refers to the probability that an event will take place given that another event took place.For example, the probability that you will a car is depend on the fact have money.
+
+#### Statistics
+
+Statistics is a branch of mathematics that deals with the colletion, organization, analysis, interpretation and presentation of data. There are two types;
+
+1. **Descriptive Statistics**: This refers to the descriptive coefficients that summarizes a given dataset for better understanding. It includes finding central tendenciesike mean, median, mode, and other coefficients that describe a dataset.
+
+2. **Inferential Statistics**: This involves testing a hypothesis and drawing a conclusion from features of a population.
+
+#### Data Mining
+
+Data Mining involves processes, methodologies, tools and techniques to discover and extract patterns, knowledge and valuable insights from messy datasets.
+
+#### Artificial Intelligence(AI)
+
+Artificial Intelligence is the art, science and engineering of making ntelligent agents and machines that perform human specific tasks. It includes fields such Machine Learning, Natural Language Processing, etc.
+
+#### Natural Language Processing(NLP)
+
+Natural Language Processing is a multidisciplinary field of AI that combines conputational linguistics, machine learning and computer science to help computers process, understand and interpret natural human language. Application of NLP includes;
+
+- Machine translation
+- Speech recognition
+- Question answering systems
+- Context recognition and resolution
+- Text summarization
+- Text categorization
+- Information extraction
+- Sentiment and emotion analysis
+- Topic segmentation
+
+#### Deep Learning
+
+Deep Learning is a sub-field of Machine Learning that mimick the biological brain to help machines extract insights from messy data.
+
+##### references
+
+1. [https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062](https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062)
+
+2. [https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/](https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/)
+
+3. [https://en.wikipedia.org/wiki/Marginal_distribution](https://en.wikipedia.org/wiki/Marginal_distribution)
