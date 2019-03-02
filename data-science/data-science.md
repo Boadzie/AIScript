@@ -107,7 +107,7 @@ The following are the required skills tha makes a great data scientist;
 
 **Marginal Probability**: The marginal probability of a sample made up of random variables is the probabilty distributions of elements in the sample.
 
-**Conditional Probability**: This refers to the probability that an event will take place given that another event took place.For example, the probability that you will a car is depend on the fact have money.
+**Conditional Probability**: This refers to the probability that an event will take place given that another event took place.For example, the probability that you will a car is dependent on the fact that you have money.
 
 #### Statistics
 
