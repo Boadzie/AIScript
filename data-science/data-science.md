@@ -139,6 +139,10 @@ Natural Language Processing is a multidisciplinary field of AI that combines con
 - Sentiment and emotion analysis
 - Topic segmentation
 
+#### Machine Learning
+
+> Machine Learning is the ability of a computer to learn to perform human-level task without being explicitly programmed. - Arthur Samuel(1959)
+
 #### Deep Learning
 
 Deep Learning is a sub-field of Machine Learning that mimick the biological brain to help machines extract insights from messy data.

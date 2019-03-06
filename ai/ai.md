@@ -2,6 +2,10 @@
 
 ---
 
+## Introduction
+
+Artificial Intelligence is the new buzzword that no one can go without. The reasons are simple; AI has given as self-driven cars, fancy robots that have close to human intelligence and many many more. Experts predict that AI will significantly improve the lives of humans in years to come. Even now, we are enjoying some of the benefits of this awesome technology
+
 **Artificial Intelliggence** is the act of giving machines the ability to perform human-level tasks without explicit programming.
 
 **Algorithm**: An Algoritm is an advance mathematical function that find pattern in data.

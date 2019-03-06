@@ -10,7 +10,32 @@ module.exports = {
             },
             {
                 text: 'AI',
-                link: '/ai/ai'
+                items: [{
+                        text: 'AI',
+                        link: '/ai/ai'
+                    },
+                    {
+                        text: 'Machine Learning',
+                        link: '/ai/ml'
+                    },
+                    {
+                        text: 'Natural Language Processing',
+                        link: '/ai/nlp'
+                    },
+                    {
+                        text: 'Computer Vision',
+                        link: '/ai/cv'
+                    },
+                    {
+                        text: 'Business Analytics',
+                        link: '/ai/bi'
+                    },
+                    {
+                        text: 'Big Data',
+                        link: '/ai/bd'
+                    }
+                ]
+
             },
             {
                 text: 'Blockchain',
