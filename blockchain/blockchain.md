@@ -32,7 +32,7 @@
 
 3. **Law**: Blockchain has enabled the secured storage of legal documents like contracts for safe keeping and prevented unlawful document tempering.
 
-4. **Governement**: Blockchain has helped to reduce beaurocracies in government by allowing real-time document access and update to all institution at the same time.
+4. **Governement**: Blockchain has helped to reduce bureaucracies in government by allowing real-time document access and update to all institution at the same time.
 
 5. **Defense**: Attacks and modification of critical defense resources like operating and computer systems can result in loss of lives. The Blockchain distributed system can be used to house these resources at different location, hence safeguarding them.
 
