@@ -4,6 +4,8 @@
 
 ## Introduction
 
+![](../images/ai.jpg)
+
 Artificial Intelligence is the new buzzword that no one can go without. The reasons are simple; AI has given as self-driven cars, fancy robots that have close to human intelligence and many many more. Experts predict that AI will significantly improve the lives of humans in years to come. Even now, we are enjoying some of the benefits of this awesome technology
 
 **Artificial Intelliggence** is the act of giving machines the ability to perform human-level tasks without explicit programming.
@@ -57,3 +59,11 @@ Artificial Intelligence is the new buzzword that no one can go without. The reas
 4.  **Business Analytics**
 
 5.  **Big Data**
+
+---
+
+#### references
+
+1. [https://developer.ibm.com/africa/skills/artificial-intelligence-v2/](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/)
+
+2. [https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062](https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062)

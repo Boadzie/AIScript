@@ -8,7 +8,7 @@ AIScript is my notes from reading the best books and courses in the industry. Th
 
 ---
 
-I am an experienced and passionate Data Scientist, AI Engineer, Full-stack Developer and a Content Creator who love to make the world a better place and help others get what they want. I am currently a student and the Vice President of the Computer Science Students Association(Compssa) of the University of Ghana.
+I am an experienced and passionate Data Scientist, AI Engineer, Senior Software Engineer and a Content Creator who love to make the world a better place and help others get what they want. I am currently a student and the Vice President of the Computer Science Students Association(Compssa) of the University of Ghana.
 
 # Contact Me
 

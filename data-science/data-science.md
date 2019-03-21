@@ -147,6 +147,66 @@ Natural Language Processing is a multidisciplinary field of AI that combines con
 
 Deep Learning is a sub-field of Machine Learning that mimick the biological brain to help machines extract insights from messy data.
 
+### The CRISP-DM Process Model
+
+Professional Data Science/ Machine Learning developement follow standards that are robust, iterative and efficient for quality data projects. This methodology is used heavily in industry and for small projects. This process helps Data Professionals to build end-to-end data solutions.
+
+The process is nicknamed CRISP-DM. The acronym stands for **Cross Industry Standard Process for Data Mining**. There are six different phases in the process.
+
+#### Phase 1 - Business Understanding
+
+This is the crucial initial stage of any data project. This phase has the following objective;
+
+- Business Problem definition
+
+- Assess and Analize Scenarios
+
+- Project Planning and Documentation
+
+#### Phase 2 - Data Understanding
+
+This second phase is concerned with the understanding of the data that will be used for analysis and model building. The objectives include;
+
+- Data Collection
+
+- Data Description
+
+- Exploratory Data Analysis
+
+- Data Quality Analysis
+
+#### Phase 3 - Data Preparation
+
+This phase involves preprocessing the data into a form that is suitable for doing analyis and build models. It includes cleaning, wrangling, curating and preparing data. Objectives include;
+
+- Data Integration
+
+- Data Wrangling
+
+- Attribute Generation and Selection
+
+#### Phase 4 - Modeling
+
+The fouth phase is the phase where the cleaned data is used to build models that will solve the business problem. Objectives includes;
+
+- Selecting the appropriate model for the task
+
+- Model Building
+
+- Model Evaluation and Tuning
+
+- Model Assessment
+
+#### Phase 5 - Evaluation
+
+This phase including measuring the model's performance(accuracy) against business goals. It also include the evaluation of the entire process including all the previous phases.
+
+#### Phase 6 - Deployment
+
+The final phase involves deploying the model to production enviroment for users to access it. It also includes plans for monitering and maintenance.
+
+---
+
 ##### references
 
 1. [https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062](https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062)
