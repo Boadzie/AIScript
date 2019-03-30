@@ -16,7 +16,7 @@ module.exports = {
                     },
                     {
                         text: 'Machine Learning',
-                        link: '/ai/ml'
+                        link: '/ai/ml/ml'
                     },
                     {
                         text: 'Natural Language Processing',
@@ -40,6 +40,14 @@ module.exports = {
             {
                 text: 'Blockchain',
                 link: '/blockchain/blockchain'
+            },
+            {
+                text: 'Cybersecurity',
+                link: '/cybersecurity/cs'
+            },
+            {
+                text: 'Design',
+                link: '/design/ds'
             },
             {
                 text: 'About',

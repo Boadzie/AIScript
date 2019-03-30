@@ -4,7 +4,7 @@
 
 ## Introduction
 
----
+![](../images/data.jpg)
 
 **Data Science** is among the new technologies that make the ["Industrial Revolution 4.0"](https://en.wikipedia.org/wiki/Industry_4.0). It has become a crucial part of every company and every successful economy. Billion of dollars are up for grab in the data economy. In fact Data Science is called the ["sexiest job of the 21st Century"](https://www.forbes.com/sites/sap/2014/01/21/data-scientist-sexiest-job-of-the-century/#1ebdf15a674b). The reasons for the data hype are numerous; they include;
 
@@ -26,7 +26,7 @@ Data Science is an interdisciplinary field of study that includes maths, compute
 
 The following are the required skills tha makes a great data scientist;
 
-### Soft Skills
+## Soft Skills
 
 1. **Curiosity**: Data Science involves uncovering knowledge and insight buried deep in messy. This means that to excel as a Data Scientist, you must learn to embrace your curiosity and explore options.
 
@@ -38,7 +38,7 @@ The following are the required skills tha makes a great data scientist;
 
 5. **Critical Thinking**: The ability to analyze siuations/solutions/problems and select the most viable from alternatives as well as continually eveluate the solution so as to make incremental changes is required for anyone who want to be a Data Scientist
 
-### Technical Skills
+## Technical Skills
 
 ---
 
@@ -56,15 +56,7 @@ The following are the required skills tha makes a great data scientist;
 
 ![](../images/dataskills.jpg)
 
-**sources**
-
-1. [https://www.proschoolonline.com/blog/data-science-skills](https://www.proschoolonline.com/blog/data-science-skills)
-
-2. [https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
-
-3. [https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html)
-
-### Data Science Part Definitions
+## Data Science Areas
 
 #### Mathematics
 
@@ -147,7 +139,7 @@ Natural Language Processing is a multidisciplinary field of AI that combines con
 
 Deep Learning is a sub-field of Machine Learning that mimick the biological brain to help machines extract insights from messy data.
 
-### The CRISP-DM Process Model
+## The CRISP-DM Process Model
 
 Professional Data Science/ Machine Learning developement follow standards that are robust, iterative and efficient for quality data projects. This methodology is used heavily in industry and for small projects. This process helps Data Professionals to build end-to-end data solutions.
 
@@ -214,3 +206,9 @@ The final phase involves deploying the model to production enviroment for users 
 2. [https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/](https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/)
 
 3. [https://en.wikipedia.org/wiki/Marginal_distribution](https://en.wikipedia.org/wiki/Marginal_distribution)
+
+4) [https://www.proschoolonline.com/blog/data-science-skills](https://www.proschoolonline.com/blog/data-science-skills)
+
+5) [https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
+
+6) [https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html)
