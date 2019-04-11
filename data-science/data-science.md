@@ -10,7 +10,7 @@
 
 1. **[Data Deluge](http://science.psu.edu/sciencejournaldec2012/archives/june-2016/features/data-deluge)**: Huge volumes of data in all forms (text, videos, images, etc) are generated daily. All these data need to be analyzed to gain valuable insight for decision-making.
 
-2. **[Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)**: The computing power required to process these huge data volumes are now possible due to advancement in computing devices and storage. For example GPU and TPU have significantly reduced the time needed to run some algorithm that usually take way longer before these technologies were created.
+2. **[Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)**: The computing power required to process these huge data volumes are now possible due to advancement in computing devices and storage. For example GPU and TPU have significantly reduced the time needed to run some algorithms that usually took about weeks and months to compile.
 
 ## What is Data Science?
 
@@ -24,7 +24,7 @@ Data Science is an interdisciplinary field of study that includes maths, compute
 
 ## Skills that make a Great Data Scientist
 
-The following are the required skills tha makes a great data scientist;
+The following are the required skills that make a great data scientist;
 
 ## Soft Skills
 
@@ -34,7 +34,7 @@ The following are the required skills tha makes a great data scientist;
 
 3. **Communication Skills**: The ability to communicate insight in a clear way for non-technical people to understand is crucial to the success of any Data Scientist.
 
-4. **People Skills**: Data Scientist rarely work alone. As such, the ability work well with other people is important for any data scientist to master if they will get far.
+4. **People Skills**: Data Scientist rarely work alone. As such, the ability to work well with other people is important for any data scientist to master if they will get far.
 
 5. **Critical Thinking**: The ability to analyze siuations/solutions/problems and select the most viable from alternatives as well as continually eveluate the solution so as to make incremental changes is required for anyone who want to be a Data Scientist
 
@@ -48,11 +48,11 @@ The following are the required skills tha makes a great data scientist;
 
 3. **Big Data**: Large volumes of data requires large processing capacity. That is why technologies like Hadoop, Apache Spark were created to handle these huge data with its attributes.
 
-4. **Machine Learning**: Machine Learning is a crucial part of Data Science. Machine Learn is the ability to make computers learn from data. Deep learning a subset of machine learning is responsible for all the cool we see today like self-driving cars and chatbots.
+4. **Machine Learning**: Machine Learning is a crucial part of Data Science. Machine Learn is the ability to make computers learn from data. Deep learning; a subset of machine learning is responsible for all the cool things we see today like self-driving cars and chatbots.
 
 5. **Data Visualization**: Data communication through visualization is also important in the toolset of a Data Scientist. After all, if you can't communicate your results to non-technical people, how will would your work benefit them?
 
-6. **Domain Knowledge**: Knowledge and intuition about the field in which you are working is also important in the accurate analysis of Data Science results and subsequent business applications.
+6. **Domain Knowledge**: Knowledge and intuition about the field in which you are working in is also important in the accurate analysis of Data Science results and subsequent business applications.
 
 ![](../images/dataskills.jpg)
 
@@ -68,7 +68,7 @@ The following are the required skills tha makes a great data scientist;
    data = [1,2,3,4,5] # the variable data is a one dimensional vector
 ```
 
-**Matrix**: A matrix is a two-dimensional array (often called a 2D array). Elements of a matrix are stored in row and collumns.
+**Matrix**: A matrix is a two-dimensional array (often called a 2D array). Elements of a matrix are stored in row and columns.
 
 ```python
    myMatrix = [
@@ -105,7 +105,7 @@ The following are the required skills tha makes a great data scientist;
 
 Statistics is a branch of mathematics that deals with the colletion, organization, analysis, interpretation and presentation of data. There are two types;
 
-1. **Descriptive Statistics**: This refers to the descriptive coefficients that summarizes a given dataset for better understanding. It includes finding central tendenciesike mean, median, mode, and other coefficients that describe a dataset.
+1. **Descriptive Statistics**: This refers to the descriptive coefficients that summarizes a given dataset for better understanding. It includes finding central tendencies like the mean, median, mode, and other coefficients that describe a dataset.
 
 2. **Inferential Statistics**: This involves testing a hypothesis and drawing a conclusion from features of a population.
 
@@ -115,7 +115,7 @@ Data Mining involves processes, methodologies, tools and techniques to discover 
 
 #### Artificial Intelligence(AI)
 
-Artificial Intelligence is the art, science and engineering of making ntelligent agents and machines that perform human specific tasks. It includes fields such Machine Learning, Natural Language Processing, etc.
+Artificial Intelligence is the art, science and engineering of making intelligent agents and machines that perform human specific tasks. It includes fields such Machine Learning, Natural Language Processing, etc.
 
 #### Natural Language Processing(NLP)
 
@@ -151,7 +151,7 @@ This is the crucial initial stage of any data project. This phase has the follow
 
 - Business Problem definition
 
-- Assess and Analize Scenarios
+- Assessing and Analysis of Scenarios
 
 - Project Planning and Documentation
 
@@ -169,7 +169,7 @@ This second phase is concerned with the understanding of the data that will be u
 
 #### Phase 3 - Data Preparation
 
-This phase involves preprocessing the data into a form that is suitable for doing analyis and build models. It includes cleaning, wrangling, curating and preparing data. Objectives include;
+This phase involves preprocessing the data into a form that is suitable for doing analysis and build models. It includes cleaning, wrangling, curating and preparing data. Objectives include;
 
 - Data Integration
 

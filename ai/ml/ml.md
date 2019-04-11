@@ -8,17 +8,17 @@
 
 > Machine Learning is the ability of a computer to learn to perform human-level task without being explicitly programmed. - Arthur Samuel(1959)
 
-**Data Mining** is the act of digging into large datasets in order to discover inherent patterns
+**Data Mining** is the act of digging into large datasets in order to discover inherent patterns.
 
 ## ML Solves The following problem well;
 
 1. Problems requiring long rules(if-else statements) to solve.
 
-2. Complex problems without traditional solutions
+2. Complex problems without traditional solutions.
 
-3. Problems requiring quick and continuous adaptation
+3. Problems requiring quick and continuous adaptation.
 
-4. Problems requiring getting insights from large datasets
+4. Problems requiring getting insights from large datasets.
 
 ## Types of ML Systems
 
@@ -46,7 +46,7 @@ Machine Learning sytems are grouped by the following criteria;
 
 #### Classification
 
-**Classification** results in an outcome that represent the probability that a value belongs to a given class( for example 80% chance of a picture being a cat or a dog).
+**Classification** results in an outcome that represent the probability that a value belongs to a given class(for example 80% chance of a picture being a cat or a dog).
 
 #### Classification Algorithms
 

@@ -6,15 +6,15 @@
 
 ![](../images/ai.jpg)
 
-Artificial Intelligence is the new buzzword that no one can go without. The reasons are simple; AI has given as self-driven cars, fancy robots that have close to human intelligence and many many more. Experts predict that AI will significantly improve the lives of humans in years to come. Even now, we are enjoying some of the benefits of this awesome technology
+Artificial Intelligence is the new buzzword that no one can go without. The reasons are simple; AI has given as self-driven cars, fancy robots that have close to human intelligence and many many more. Experts predict that AI will significantly improve the lives of humans in years to come. Even now, we are enjoying some of the benefits of this awesome technology.
 
 **Artificial Intelliggence** is the act of giving machines the ability to perform human-level tasks without explicit programming.
 
 **Algorithm**: An Algoritm is an advance mathematical function that find pattern in data.
 
-**Augumented Intelligence**: This refers a situation where people and machines work together to create knowledge from data in that enhances human expertise
+**Augumented Intelligence**: This refers a situation where people and machines work together to create knowledge from data in a way that enhances human expertise.
 
-**Cognitive Computing**: This refers to systems that learn to perform human-level tasks by interacting and experiencing their environment
+**Cognitive Computing**: This refers to systems that learn to perform human-level tasks by interacting and experiencing their environment.
 
 **Strong AI**: These are systems that are autonomous enough to think and act on their own. Example include; DeepMind, Human Brain Project and OpenAI.
 
@@ -38,7 +38,7 @@ Artificial Intelligence is the new buzzword that no one can go without. The reas
 
 1. **Big Data**: This is a crucial influencer of AI. Big Data has 5 attributes;
 
-   - **Variety**: Big Data comes in different categories. There text, audio, video, etc.
+   - **Variety**: Big Data comes in different categories. There are text, audio, video, etc.
 
    - **Volume**: Big Data comes in large volumes. This is because people are constantly generating content on platforms like Facebook, Twitter, etc.
 
