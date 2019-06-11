@@ -6,6 +6,7 @@ meta:
     content: Notebook
 lang: en-US
 heroText: AIScript
+heroImage: big.png
 tagline: New Tech notebook/Dictionary for Developers
 home: true
 navbar: true
