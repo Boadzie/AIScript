@@ -48,9 +48,9 @@ The following are the required skills that make a great data scientist;
 
 3. **Big Data**: Large volumes of data requires large processing capacity. That is why technologies like Hadoop, Apache Spark were created to handle these huge data with its attributes.
 
-4. **Machine Learning**: Machine Learning is a crucial part of Data Science. Machine Learn is the ability to make computers learn from data. Deep learning; a subset of machine learning is responsible for all the cool things we see today like self-driving cars and chatbots.
+4. **Machine Learning**: Machine Learning is a crucial part of Data Science. Machine Learning is the ability to make computers learn from data. Deep learning; a subset of machine learning is responsible for all the cool things we see today like self-driving cars and chatbots.
 
-5. **Data Visualization**: Data communication through visualization is also important in the toolset of a Data Scientist. After all, if you can't communicate your results to non-technical people, how will would your work benefit them?
+5. **Data Visualization**: Data communication through visualization is also important in the toolset of a Data Scientist. After all, if you can't communicate your results to non-technical people, how will your work benefit them?
 
 6. **Domain Knowledge**: Knowledge and intuition about the field in which you are working in is also important in the accurate analysis of Data Science results and subsequent business applications.
 
