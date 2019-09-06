@@ -8,7 +8,7 @@
 
 Artificial Intelligence is the new buzzword that no one can go without. The reasons are simple; AI has given as self-driven cars, fancy robots that have close to human intelligence and many many more. Experts predict that AI will significantly improve the lives of humans in years to come. Even now, we are enjoying some of the benefits of this awesome technology.
 
-**Artificial Intelliggence** is the act of giving machines the ability to perform human-level tasks without explicit programming.
+**Artificial Intelligence** is the act of giving machines the ability to perform human-level tasks without explicit programming.
 
 **Algorithm**: An Algoritm is an advance mathematical function that find pattern in data.
 
@@ -22,7 +22,7 @@ Artificial Intelligence is the new buzzword that no one can go without. The reas
 
 ## Levels of AI
 
-1. **Artificial Narrow Intelligence(ASI)**: This syetem belong to the Weak AI category. It refer to applying AI to a specific single domain. Chatbots fall into this category.
+1. **Artificial Narrow Intelligence(ANI)**: This system belongs to the Weak AI category. It refers to applying AI to a specific single domain. Chatbots fall into this category.
 
 2. **Artificial General Intelligence(AGI)**: This falls in the Strong AI category. Machines produced from this system can perform almost all tasks on thier own. We are currently heading towards this system.
 
@@ -30,9 +30,9 @@ Artificial Intelligence is the new buzzword that no one can go without. The reas
 
 ## AI Systems
 
-1. **Deterministic System**: These system produce a know output with a given input. This means that all outcomes are known and certain.
+1. **Deterministic System**: These system produce a known output with a given input. This means that all outcomes are known and certain.
 
-2. **Probabilistic Sytems**: This systems depend on the confidence values of returned responses. Thier oucomes are not known with certainty.
+2. **Probabilistic Sytems**: This systems depend on the confidence values of returned responses. Thier outcomes are not known with certainty.
 
 ## AI Influencers
 
